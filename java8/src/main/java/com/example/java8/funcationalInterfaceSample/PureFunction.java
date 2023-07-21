@@ -18,9 +18,9 @@ public class PureFunction {
             return number + 10;
         };
 
-        System.out.println(runPlus.add(1));
-        System.out.println(runPlus.add(2));
-        System.out.println(runPlus.add(3));
+        System.out.println("nubmer 1:" + runPlus.add(1));
+        System.out.println("nubmer 2:" + runPlus.add(2));
+        System.out.println("nubmer 3:" + runPlus.add(3));
     }
 
 }
