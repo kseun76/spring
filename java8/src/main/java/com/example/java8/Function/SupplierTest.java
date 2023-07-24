@@ -1,4 +1,4 @@
-package com.example.java8.funcationalInterfaceSample.FunctionSample;
+package com.example.java8.Function;
 import java.util.function.Supplier;
 
 public class SupplierTest {

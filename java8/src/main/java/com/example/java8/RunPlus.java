@@ -1,4 +1,4 @@
-package com.example.java8.funcationalInterfaceSample;
+package com.example.java8;
 
 @FunctionalInterface
 public interface RunPlus {

@@ -1,4 +1,4 @@
-package com.example.java8.funcationalInterfaceSample;
+package com.example.java8;
 
 public class PureFunction {
     public static void main(String[] args) {

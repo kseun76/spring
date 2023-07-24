@@ -1,5 +1,4 @@
-package com.example.java8.funcationalInterfaceSample.FunctionSample;
-import java.util.function.Consumer;
+package com.example.java8.Function;
 import java.util.function.Predicate;
 
 public class PredicateTest {

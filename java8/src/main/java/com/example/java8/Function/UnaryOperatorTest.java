@@ -1,5 +1,4 @@
-package com.example.java8.funcationalInterfaceSample.FunctionSample;
-import java.util.function.Predicate;
+package com.example.java8.Function;
 import java.util.function.UnaryOperator;
 
 public class UnaryOperatorTest {
