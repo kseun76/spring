@@ -1,7 +1,7 @@
 package com.example.java8.Lambda;
 
 public class Item {
-    private String itemName;
+    public String itemName;
 
     // 인자가 없는 생성자
     public Item() {
