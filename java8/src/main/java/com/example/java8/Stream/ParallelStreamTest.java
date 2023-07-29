@@ -1,8 +1,7 @@
-package com.example.java8.stream;
+package com.example.java8.Stream;
 
 import java.util.ArrayList;
 import java.util.List;
-import java.util.stream.Collectors;
 
 public class ParallelStreamTest {
     public static void main(String[] args) {
