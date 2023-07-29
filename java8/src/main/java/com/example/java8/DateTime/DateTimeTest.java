@@ -54,9 +54,6 @@ public class DateTimeTest {
         int day = currentDate2.getDate();
         System.out.println("Year: " + year + ", Month: " + month2 + ", Day: " + day);
 
-        // Date에 시간대(time zone) 정보가 없음
-        // TimeZone 정보를 다루려면 별도의 처리가 필요하고 번거로움
-
         // 5. Date와 Calendar의 불일치
         // Date 클래스는 날짜와 시간을 동시에 다루기 때문에 Date의 인스턴스는 날짜 정보와 시간 정보가 함께 포함되어 있음
         // Calendar 클래스는 날짜와 시간 정보를 별도로 다루기 때문에 연관된 메서드들이 서로 다른 클래스에 분산되어 있음
