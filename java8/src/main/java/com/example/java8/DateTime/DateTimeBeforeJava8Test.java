@@ -4,7 +4,7 @@ import java.util.Calendar;
 import java.util.Date;
 import java.util.GregorianCalendar;
 
-public class DateTimeTest {
+public class DateTimeBeforeJava8Test {
     public static void main(String[] args) {
         // 1. 가독성과 유지보수 어려움
         // Date 클래스는 지루한 API로 가독성이 떨어짐
